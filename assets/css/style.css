@@ -406,6 +406,17 @@ img {
   margin-bottom: var(--mb-3);
 }
 
+.input-group {
+  padding: 5px;
+}
+
+.form-control {
+  padding: 10px 20px;
+}
+
+form {
+  text-align: center;
+}
 /* Footer */
 .footer__container {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -554,5 +565,13 @@ img {
   .about__container,
   .app__container {
     column-gap: 7rem;
+  }
+
+  .contact {
+    margin-left: var(--mb-6);
+  }
+
+  .footer {
+    margin-left: var(--mb-6);
   }
 }
