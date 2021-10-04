@@ -558,6 +558,9 @@ form {
     margin-right: auto;
   }
 
+  .nav__logo {
+    margin-left: var(--mb-6);
+  }
   .home__img {
     width: 500px;
   }
