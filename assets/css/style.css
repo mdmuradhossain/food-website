@@ -396,3 +396,14 @@ img {
   width: 230px;
   justify-self: center;
 }
+
+/* Contact */
+.contact__container {
+  text-align: center;
+}
+
+.contact__description{
+  margin-bottom: var(--mb-3);
+}
+
+
